@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Always trying to explore new Stacks and tools.
 - 🎓 &nbsp; Bachelor Computer Science.
-- 🌱 &nbsp; Learning more about MicroServices, Web3 / Blockchain and DevOps.
+- 🌱 &nbsp; Learning more about MicroServices, Web3 / Blockchain and DevOps and AI.
 - ✍️ &nbsp; Book Nerd and Manchester United Fan.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
